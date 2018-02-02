@@ -1,0 +1,16 @@
+*~
+*.swp
+.project
+.cproject
+.settings
+Debug
+*.m
+build/
+dlib/build/
+standalone_build
+python
+.idea
+matlab
+data_for_test/
+cmake-build-debug/
+*.out
