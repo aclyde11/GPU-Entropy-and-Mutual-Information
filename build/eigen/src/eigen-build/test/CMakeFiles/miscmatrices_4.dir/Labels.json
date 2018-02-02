@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen/test/miscmatrices.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "miscmatrices_4"
+	}
+}

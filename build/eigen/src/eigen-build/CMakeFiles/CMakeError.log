@@ -1,0 +1,76 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd981 failed with the following output:
+Change Dir: /home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_dc93e/fast"
+make[3]: Entering directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_dc93e.dir/build.make CMakeFiles/cmTC_dc93e.dir/build
+make[4]: Entering directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_dc93e.dir/src.cxx.o
+/usr/bin/c++     -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd981 -Werror   -wd981 -o CMakeFiles/cmTC_dc93e.dir/src.cxx.o -c /home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd981'
+CMakeFiles/cmTC_dc93e.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_dc93e.dir/src.cxx.o' failed
+make[4]: *** [CMakeFiles/cmTC_dc93e.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_dc93e/fast' failed
+make[3]: *** [cmTC_dc93e/fast] Error 2
+make[3]: Leaving directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd2304 failed with the following output:
+Change Dir: /home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_122f9/fast"
+make[3]: Entering directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_122f9.dir/build.make CMakeFiles/cmTC_122f9.dir/build
+make[4]: Entering directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_122f9.dir/src.cxx.o
+/usr/bin/c++     -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd2304 -Werror   -wd2304 -o CMakeFiles/cmTC_122f9.dir/src.cxx.o -c /home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd2304'
+CMakeFiles/cmTC_122f9.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_122f9.dir/src.cxx.o' failed
+make[4]: *** [CMakeFiles/cmTC_122f9.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_122f9/fast' failed
+make[3]: *** [cmTC_122f9/fast] Error 2
+make[3]: Leaving directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_STRICTANSI failed with the following output:
+Change Dir: /home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5e758/fast"
+make[3]: Entering directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_5e758.dir/build.make CMakeFiles/cmTC_5e758.dir/build
+make[4]: Entering directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5e758.dir/src.cxx.o
+/usr/bin/c++     -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_STRICTANSI -Werror   -strict-ansi -o CMakeFiles/cmTC_5e758.dir/src.cxx.o -c /home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-strict-ansi'
+CMakeFiles/cmTC_5e758.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_5e758.dir/src.cxx.o' failed
+make[4]: *** [CMakeFiles/cmTC_5e758.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5e758/fast' failed
+make[3]: *** [cmTC_5e758/fast] Error 2
+make[3]: Leaving directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Qunusedarguments failed with the following output:
+Change Dir: /home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bd3d1/fast"
+make[3]: Entering directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_bd3d1.dir/build.make CMakeFiles/cmTC_bd3d1.dir/build
+make[4]: Entering directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_bd3d1.dir/src.cxx.o
+/usr/bin/c++     -fexceptions -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_Qunusedarguments -Werror   -Qunused-arguments -o CMakeFiles/cmTC_bd3d1.dir/src.cxx.o -c /home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Qunused-arguments'
+CMakeFiles/cmTC_bd3d1.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_bd3d1.dir/src.cxx.o' failed
+make[4]: *** [CMakeFiles/cmTC_bd3d1.dir/src.cxx.o] Error 1
+make[4]: Leaving directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_bd3d1/fast' failed
+make[3]: *** [cmTC_bd3d1/fast] Error 2
+make[3]: Leaving directory '/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main() { return 0; }

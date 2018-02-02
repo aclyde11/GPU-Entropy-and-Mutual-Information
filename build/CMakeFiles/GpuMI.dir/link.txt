@@ -1,0 +1,1 @@
+/usr/bin/g++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libGpuMI.so -o libGpuMI.so CMakeFiles/GpuMI.dir/src/gpumi_main.cc.o -lpthread -lm -ldl 

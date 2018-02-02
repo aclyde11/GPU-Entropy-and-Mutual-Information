@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-GUnix Makefiles;/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen'
