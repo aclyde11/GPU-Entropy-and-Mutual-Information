@@ -1,1 +1,0 @@
-/usr/bin/g++   -O3 -DNDEBUG   CMakeFiles/GpuMI_test.dir/test/util_test/to_file_test.cc.o  -o GpuMI_test -rdynamic gtest/src/googletest-build/googlemock/gtest/libgtest.a gtest/src/googletest-build/googlemock/gtest/libgtest_main.a libGpuMI.so -lpthread -lpthread -lm -ldl -Wl,-rpath,/home/aclyde/GPU-Entropy-and-Mutual-Information/build 

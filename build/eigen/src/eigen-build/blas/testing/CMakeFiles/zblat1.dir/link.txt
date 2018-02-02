@@ -1,1 +1,0 @@
-/usr/bin/gfortran    -O3 CMakeFiles/zblat1.dir/zblat1.f.o  -o zblat1  ../libeigen_blas.so -Wl,-rpath,/home/aclyde/GPU-Entropy-and-Mutual-Information/build/eigen/src/eigen-build/blas 

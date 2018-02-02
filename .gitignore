@@ -5,9 +5,9 @@
 .settings
 Debug
 *.m
-cpp/build/
-cpp/dlib/build/
-cpp/standalone_build
+build/
+dlib/build/
+standalone_build
 python
 .idea
 matlab
